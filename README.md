@@ -10,4 +10,4 @@ _Note: The script also includes a function to generate a video animation showing
 
 |USEAGE|
 |------|
-|python  Image_similar_finder.py -i CHECK_IMG_DIR -o RESULT_IMG_DIR -s 16 -t 33`|
+|`python  Image_similar_finder.py -i CHECK_IMG_DIR -o RESULT_IMG_DIR -s 16 -t 33`|
