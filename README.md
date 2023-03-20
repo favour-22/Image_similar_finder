@@ -8,6 +8,6 @@ _To identify similar images, the script compares the hash values of each pair of
 
 _Note: The script also includes a function to generate a video animation showing the effect of different hash sizes on an image_
 
-|USEAGE|
+|_How to run_|
 |------|
-|`python  Image_similar_finder.py -i CHECK_IMG_DIR -o RESULT_IMG_DIR -s 16 -t 33`|
+|```python  Image_similar_finder.py -i CHECK_IMG_DIR -o RESULT_IMG_DIR -s 16 -t 33```|
