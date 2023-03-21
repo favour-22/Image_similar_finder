@@ -82,7 +82,7 @@ def generate_hash(frame, hash_size):
     hashed_frame = cv2.cvtColor(hashed_frame, cv2.COLOR_GRAY2BGR)
     return bits_list, hashed_frame
 
-input_folder = "images.jpg"
+
 def clean_folder(input_folder, similar_images, hash_size, threshold):
     files = (os.listdir(input_folder))
     list_length = len(files)
